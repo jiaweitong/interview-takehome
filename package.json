@@ -1,0 +1,20 @@
+{
+  "name": "interview-takehome",
+  "version": "1.0.0",
+  "description": "Interview take home questions for Animal Fellowship.",
+  "main": "index.js",
+  "scripts": {
+    "run-code": "tsc && node build/question.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/animal-high-tech/interview-takehome.git"
+  },
+  "author": "Chris Yao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/animal-high-tech/interview-takehome/issues"
+  },
+  "homepage": "https://github.com/animal-high-tech/interview-takehome#readme"
+}
